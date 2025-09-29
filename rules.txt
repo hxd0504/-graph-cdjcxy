@@ -1,0 +1,5 @@
+#规则库
+
+# 优先级规则
+prefer data from source_type: government
+prefer relationship from source_type: government
